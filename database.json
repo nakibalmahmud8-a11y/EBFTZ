@@ -1,0 +1,18 @@
+{
+  "tournament_info": {
+    "total_players": 32,
+    "current_round": "Round of 32"
+  },
+  "teams": {
+    "Argentina": { "is_booked": false, "booked_by_id": null, "player_name": null },
+    "Brazil": { "is_booked": false, "booked_by_id": null, "player_name": null },
+    "Germany": { "is_booked": false, "booked_by_id": null, "player_name": null },
+    "France": { "is_booked": false, "booked_by_id": null, "player_name": null },
+    "Portugal": { "is_booked": false, "booked_by_id": null, "player_name": null },
+    "Spain": { "is_booked": false, "booked_by_id": null, "player_name": null }
+    // এভাবে তুমি চাইলে আরও দেশের নাম কমা (,) দিয়ে বাড়িয়ে নিতে পারবে
+  },
+  "players": {},
+  "unselect_requests": [],
+  "matches": []
+}
